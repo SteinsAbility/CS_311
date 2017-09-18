@@ -1,0 +1,10 @@
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe.config
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\bin\Debug\BasicCalc.pdb
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csprojResolveAssemblyReference.cache
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.Form1.resources
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.Properties.Resources.resources
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csproj.GenerateResource.Cache
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csproj.CoreCompileInputs.cache
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.exe
+c:\users\stephen\source\repos\BasicCalc\BasicCalc\obj\Debug\BasicCalc.pdb
